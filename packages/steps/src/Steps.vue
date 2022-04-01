@@ -37,5 +37,7 @@ export default {
 </script>
 
 <style scoped>
+
 @import url(./steps.css);
+
 </style>
