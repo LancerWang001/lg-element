@@ -2,5 +2,6 @@
   "name": "@lc/steps",
   "version": "0.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "fc59f76e35483ccb24ac4b8c2c9f07ecbe26576f"
 }
