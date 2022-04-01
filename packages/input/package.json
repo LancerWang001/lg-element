@@ -10,5 +10,8 @@
   "dependencies": {
     "lodash": "3"
   },
-  "gitHead": "e197bee201f343ac8df4d374a4fb0170ad6ec143"
+  "gitHead": "e197bee201f343ac8df4d374a4fb0170ad6ec143",
+  "scripts": {
+    "del": "rimraf dist"
+  }
 }
