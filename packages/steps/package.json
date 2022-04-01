@@ -4,7 +4,8 @@
     "access": "public"
   },
   "version": "0.0.2",
-  "main": "index.js",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
   "license": "MIT",
   "gitHead": "e197bee201f343ac8df4d374a4fb0170ad6ec143"
 }
