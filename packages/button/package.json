@@ -1,6 +1,6 @@
 {
-  "name": "lg-button",
-  "version": "0.0.1",
+  "name": "@lc/lg-button",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
