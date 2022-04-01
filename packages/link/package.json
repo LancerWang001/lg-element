@@ -1,0 +1,17 @@
+{
+  "name": "lc-lg-link",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "lg-link component",
+  "version": "0.0.0",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "3"
+  },
+  "scripts": {
+    "del": "rimraf dist"
+  }
+}
