@@ -1,10 +1,9 @@
 {
-  "name": "@lc/steps",
+  "name": "lc-steps",
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.0.3",
+  "version": "0.0.0",
   "main": "index.js",
-  "license": "MIT",
-  "gitHead": "9cca94ca378fc0bb931746e0b9a6001297972996"
+  "license": "MIT"
 }
