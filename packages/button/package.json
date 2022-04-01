@@ -9,5 +9,8 @@
   "dependencies": {
     "lodash": "4"
   },
-  "gitHead": "e197bee201f343ac8df4d374a4fb0170ad6ec143"
+  "gitHead": "e197bee201f343ac8df4d374a4fb0170ad6ec143",
+  "scripts": {
+    "build": "rollup -c"
+  }
 }
